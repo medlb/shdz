@@ -1459,7 +1459,7 @@ NavigationContainer [data-framer-component-type=NavigationContainer]>*,
     flex-direction: column;
     flex-wrap: nowrap;
     gap: 24px;
-    height: 579px;
+/*     height: 579px; */
     justify-content: flex-start;
     overflow: hidden;
     padding: 80px 64px;
